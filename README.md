@@ -1,1 +1,3 @@
-# Natural Language Processing
+#This project demonstrates the application of Natural Language Processing (NLP) techniques to sentiment analysis using a dataset of restaurant reviews. The text data was preprocessed through tokenization, stopword removal, stemming, and vectorization using the Bag of Words model. The processed data was then used to train a machine learning classifier using the Gaussian Naive Bayes algorithm to predict whether a given review expresses a positive or negative sentiment. The goal of the project is to showcase how traditional NLP pipelines and probabilistic models can be combined for efficient text classification tasks.
+
+
